@@ -1,3 +1,3 @@
-## Gradebook
+# Gradebook
 
 Codecademy - Learn Python 3
